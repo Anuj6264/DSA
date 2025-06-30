@@ -1,4 +1,4 @@
-
+// Only applicable when there are all positive elements in array and problem related to counting only.
 // For Problems involving atleast k (>=):
 // Example: Count Subarrays Where Max Element Appears at Least K Times (LC 2962)
 
